@@ -1,9 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/bienvenido/"}
+{"dg-publish":true,"permalink":"/bienvenido/","noteIcon":"","created":"2025-10-22T18:33:28.905-06:00","updated":"2025-10-22T19:04:12.743-06:00"}
 ---
 
 Esta es su nueva *bóveda*.
 
-Cree una nota de algo, [[cree un enlace\|cree un enlace]], o pruebe [el Importador](https://help.obsidian.md/Plugins/Importer)!
-
-Cuando esté listo, borre esta nota y aprópiese de la bóveda
+[[Holilla pruebilla\|Holilla pruebilla]]
