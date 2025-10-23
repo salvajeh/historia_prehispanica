@@ -3,3 +3,5 @@
 ---
 
 Esto se supone que es mi home.
+
+[[Bienvenido\|Bienvenido]]
